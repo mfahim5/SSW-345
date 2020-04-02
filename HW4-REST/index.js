@@ -103,7 +103,18 @@ async function listBranches(owner,repo)
 		request(options, function (error, response, body) {
 
 			// console.debug( options );
-			resolve( JSON.parse(body) );
+			//resolve( JSON.parse(body) );
+			var obj = JSON.parse(body);
+
+			for( var i = 0; i < obj.length; i++ )
+
+			{
+
+				var name = obj[i].name;
+
+				console.log( name );
+
+			}
 
 		});
 	});
