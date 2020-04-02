@@ -1,0 +1,27 @@
+{
+  "name": "express-api",
+  "version": "1.0.0",
+  "description": "Node.js and Express REST API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  }, 
+
+  "repository": {
+    "type": "git",
+    "url": "mfahim5"
+  },
+  "keywords": [
+    "[\"first\"",
+    "\"app\"]"
+  ],
+  "author": "Micheal Fahim",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "request": "^2.88.2"
+  }
+  
+}
