@@ -11,7 +11,7 @@ var config = {};
 // Retrieve our api token from the environment variables.
 
 
-require('dotenv').config();
+
 config.token = process.env.GITHUBTOKEN;
 
 if( !config.token )
