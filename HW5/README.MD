@@ -12,15 +12,19 @@ Design
 
 2. What was most difficult? What would you do differently?
 
-   The most diffucult was figuring out what we wanted the bot to do. The design of the bot was going to rely on what we planned the bot will do. This was very hard because we had a lot of options between different types of bots to make. Our team what have probably chose a different type of bot to implement, because the bot we are implementing now, FocusBot, has a lot of functionality that takes time to implement.
+   The most diffucult was figuring out what we wanted the bot to do, because the focusbot has functional oriented design. The design of the bot was going to rely on what we planned the bot will do. This was very hard because we had a lot of options between different types of bots to make. Our team what have probably chose a different type of bot to implement, because the bot we are implementing now, FocusBot, has a lot of functionality that takes time to implement.
    
 
 3. What design methods might you want to try again in the future on another project?
 (Links to an external site.)
+
+   Other design methods I might want to try again in the future on another project is implementing data oriented design method, and object oriented design method. For data oriented design method, it would be fun to implement another bot that analyzes data to figure out different trends. For object oriented design method, it would also be fun to create another bot that follows object oriented priciples. This kind of bot would be a combination of functional design pattern, and data oriented design pattern. A bot idea would be, a bot that analyzes trends and can do functions with those trends, for example, change a pie graph to a bar graph.
+
+links: http://www.levela.com/software_design_swdoc.htm 
  
    
- 
- 
+   
+
  
 Implementation
 
