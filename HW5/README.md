@@ -29,7 +29,7 @@ Implementation
 
 1. What was most helpful about implementing, testing, and integration in your bot project?
 
-     The most helpful aspect about implementing our bot project was it helped us get more familar with backend. The most helpful aspect about testing was it helped us see if the bot was communicating with the user, and see which functions were not working correctly. The most helpful aspect with integration was it helped us make the bot better by integrating better functions for the bot.
+     The most helpful aspect about implementing our bot project was it helped us get more familar with backend, we used mongoose for API. The most helpful aspect about testing was it helped us see if the bot was communicating with the user, and see which functions were not working correctly. The most helpful aspect with integration was it helped us make the bot better by using the API, Mongoose, to integrate better functions for the bot.
      
      
 2. What was most difficult? What would you do differently?
@@ -40,7 +40,8 @@ Implementation
 3. What implementation, testing, and integration methods might you want to try again in the future on another project?
  (Links to an external site.)
  
-   
+   For implementation, I would like to try using structural programming method by using the using top-down analysis, because with top-down analysis I would be able to break  down the problem of the project into smaller pieces so I can better tackle the problem. For testing, I might want to try using dynamic testing method on a future project because it will allow me to see different inputs from different testers. For integration, I might want to try to use different APIs on future projects.
+   Links: https://www.thebalancecareers.com/all-you-need-to-know-about-software-testing-methods-4019921 https://www.vivantio.com/resources/blog/itsm-integration-methods/ https://www.tutorialspoint.com/software_engineering/software_implementation.htm
  
  
  
