@@ -51,14 +51,24 @@ Process
 
 1. What was most helpful about implementing kanban and code review in your project?
 
+   The kanban and code review was very helpful especially for a project like this. The most helpful aspect was the break down of work each person in the group needed to do, this helped us a lot because at first we didnt know if we were all techinically skilled in certain things more than others. But the kanban and code review helped us figure out who has the skills to do what.
+   
 2. What was most difficult? What would you do differently?
 
+   The most difficult about implementing kanban and code review was figuring out how many parts of the bot each person does. Even though the kanban and the code review helped us figure out the technical skills of each person in the group, it was hard to decide how many parts of the bot one person does versus the other, this was solved by implementing the bot and seeing if we had issues or not.
+   
 3. What software processes or practices might you want to try again in the future on another project?
  (Links to an external site.)
  
+   Software processes or practices I might want to try on future projects are doing more prototyping before implementing the project. Using prototyes helps with visualizing the overall scope of the project, which will help with deciding user roles, and the breakdown of work each person needs to do.
+ 
+ links: https://medium.com/omarelgabrys-blog/software-engineering-software-process-and-software-process-models-part-2-4a9d06213fdc
  
  
  
  
 Overall
 Considering all the design methods, implementation practices, and software processes you've encountered---compare and contrast how the benefits of the different practices and how they might be useful together.
+
+
+   
