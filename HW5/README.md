@@ -60,9 +60,8 @@ Process
 3. What software processes or practices might you want to try again in the future on another project?
  (Links to an external site.)
  
-   Software processes or practices I might want to try on future projects are doing more prototyping before implementing the project. Using prototyes helps with visualizing the overall scope of the project, which will help with deciding user roles, and the breakdown of work each person needs to do.
- 
- links: https://medium.com/omarelgabrys-blog/software-engineering-software-process-and-software-process-models-part-2-4a9d06213fdc
+   Software processes or practices I might want to try on future projects are doing more prototyping before implementing the project. Using prototyes helps with visualizing the overall scope of the project, which will help with deciding user roles, and the breakdown of work each person needs to do. 
+   links: https://medium.com/omarelgabrys-blog/software-engineering-software-process-and-software-process-models-part-2-4a9d06213fdc
  
  
  
@@ -70,5 +69,6 @@ Process
 Overall
 Considering all the design methods, implementation practices, and software processes you've encountered---compare and contrast how the benefits of the different practices and how they might be useful together.
 
+   A couple of design methods I have encountered are data oriented method, and object oriented methods. A couple of implementation methods I have encountered are structural programming method, and functional programming methods. A couple of software processes I have encountered are prototyping, and agile methods. To contrast, for data oriented methods, this design method is best used if the project is focused on data and data analysis. For object oriented methods, it is best used for projects that have a combination of data and functions. For structural programming methods, it is best if used if the project has a big problem that needs breakdown. For, functional programming methods, it is best if used if the project has a majority of fucntions that need to be implemented, for example the bot project. For prototyping, it is best if used on a project that is hard to visualize or has a lot of functions and methods. For agile methods, it is best if used on a project that changes rapidly in requirements due to customers or stakeholders. How most of these methods can be useful together is if you have a huge project that needs to be implemented, for example a company application. For a project of the sort, you can use agile methods, prototyping, structural, and functional programming methods to implement it. These methods would be useful together because company project usually change rapidly due to stakeholder needs, so using agile methods would be useful. Using prototyping would be helpful because it gives you a demo to show to your boss or stakeholders. And finally, using structural and functional programming methods for breaking down the problems that need to be solved, and programming all the different functions the project needs.
 
    
