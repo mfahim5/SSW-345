@@ -19,8 +19,7 @@ Design
 (Links to an external site.)
 
    Other design methods I might want to try again in the future on another project is implementing data oriented design method, and object oriented design method. For data oriented design method, it would be fun to implement another bot that analyzes data to figure out different trends. For object oriented design method, it would also be fun to create another bot that follows object oriented priciples. This kind of bot would be a combination of functional design pattern, and data oriented design pattern. A bot idea would be, a bot that analyzes trends and can do functions with those trends, for example, change a pie graph to a bar graph.
-
-links: http://www.levela.com/software_design_swdoc.htm 
+   links: http://www.levela.com/software_design_swdoc.htm 
  
    
    
@@ -28,12 +27,20 @@ links: http://www.levela.com/software_design_swdoc.htm
  
 Implementation
 
-What was most helpful about implementing, testing, and integration in your bot project?
+1. What was most helpful about implementing, testing, and integration in your bot project?
 
-What was most difficult? What would you do differently?
+     The most helpful aspect about implementing our bot project was it helped us get more familar with backend. The most helpful aspect about testing was it helped us see if the bot was communicating with the user, and see which functions were not working correctly. The most helpful aspect with integration was it helped us make the bot better by integrating better functions for the bot.
+     
+     
+2. What was most difficult? What would you do differently?
 
-What implementation, testing, and integration methods might you want to try again in the future on another project?
+   The most difficult aspect about implementing, testing, and integration in the FocusBot was getting stuff to work, working with the Mongoose was tricky for me because I never used it, but Dewey helped me a lot with understanding it.
+   
+   
+3. What implementation, testing, and integration methods might you want to try again in the future on another project?
  (Links to an external site.)
+ 
+ 
  
  
  
