@@ -34,13 +34,13 @@ Implementation
      
 2. What was most difficult? What would you do differently?
 
-   The most difficult aspect about implementing, testing, and integration in the FocusBot was getting stuff to work, working with the Mongoose was tricky for me because I never used it, but Dewey helped me a lot with understanding it.
+   The most difficult aspect about implementing, testing, and integration in the FocusBot was getting stuff to work, working with the Mongoose was tricky for me because I never used it, but Dewey helped me a lot with understanding it. What I would do differently is decide which methods to use before hand so it will be easier to handle implementing, testing, and integrating.
    
    
 3. What implementation, testing, and integration methods might you want to try again in the future on another project?
  (Links to an external site.)
  
- 
+   
  
  
  
@@ -48,11 +48,11 @@ Implementation
  
 Process
 
-What was most helpful about implementing kanban and code review in your project?
+1. What was most helpful about implementing kanban and code review in your project?
 
-What was most difficult? What would you do differently?
+2. What was most difficult? What would you do differently?
 
-What software processes or practices might you want to try again in the future on another project?
+3. What software processes or practices might you want to try again in the future on another project?
  (Links to an external site.)
  
  
